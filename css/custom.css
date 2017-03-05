@@ -27,7 +27,3 @@ header{
 .insta{
 	color: red;
 }
-@viewport{
-    zoom: 1.0;
-    width: device-width;
-}
