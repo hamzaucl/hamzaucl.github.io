@@ -2,22 +2,28 @@
 	color: black;
 }
 .myname{
-	font-size: 26px;
+	font-size: 22px;
 	font-style: italic;
 	font-family: georgia;
 }
 body
 {
 	background-color: maroon;
+	background-image: url(../img/parli.jpg);
+	background-size: cover;
+	height: 100vh;
 }
 
 header{
 	background-image: url(../img/183.jpg);
 	background-size: cover;
-	height: 100vh;
+	height: 160vh;
 }
 
 .extra-space{
 	margin-top: 100px;
 
+}
+.insta{
+	color: red;
 }
